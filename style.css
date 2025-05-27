@@ -19,13 +19,13 @@ body {
 
 
 header {
-  background-color: #a3d8ff; /* your baby blue */
+  background-color: #a3d8ff; 
   color: #002f4b;
   padding: 15px -15px;
   position: sticky;
   top: 0;
-  z-index: 1000; /* makes sure it stays above other content */
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); /* optional shadow */
+  z-index: 1000; 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); 
 }
 
 
